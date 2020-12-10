@@ -1,5 +1,5 @@
 # Eclair Group:  
-Time wasn't enough to finish branching individually, plus technical problems in internet connection of my group so I uploaded it all myself
+Time wasn't enough to finish branching individually, plus technical problems in internet connection/slow pc of my group so I uploaded it all myself since its already due date
 
 
 Wasn't able to finish grading system too. sorry.
