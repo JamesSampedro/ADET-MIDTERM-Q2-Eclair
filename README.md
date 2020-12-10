@@ -30,4 +30,4 @@ Ditchella, Bella - claims principal / scrum master / work organizer
 Laureta, John Benedict - dbcontext identity / visual UI/UX
 
 
-Sampedro, James - back end
+Sampedro, James - authorization, some identity, etc. + supporting group
