@@ -2,9 +2,7 @@
 Time wasn't enough to finish branching individually, plus technical problems in internet connection/slow pc of my group so I uploaded it all myself since its already due date
 
 
-Wasn't able to finish grading system too. sorry.
-
-student portal with admin/student login feature
+student portal with admin/student login feature, and grades
 
 //
 
