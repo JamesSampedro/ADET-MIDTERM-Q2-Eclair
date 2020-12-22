@@ -9,7 +9,6 @@ using UniqueMvc.Models;
 
 namespace UniqueMvc.Data
 {
-    // Belle
     public class MyUserClaimsPrincipalFactory : UserClaimsPrincipalFactory<ApplicationUser, IdentityRole>
     {
         public MyUserClaimsPrincipalFactory(
@@ -19,6 +18,7 @@ namespace UniqueMvc.Data
             : base(userManager, roleManager, optionsAccessor)
         {
         }
+
 
         protected override async Task<ClaimsIdentity> GenerateClaimsAsync(ApplicationUser user)
         {

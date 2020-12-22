@@ -9,7 +9,6 @@ using UniqueMvc.Models;
 
 namespace UniqueMvc.Data
 {
-    // Benedict
     public class AuthDbContext : IdentityDbContext
     {
         public AuthDbContext( DbContextOptions<AuthDbContext> options) : base(options)
@@ -18,6 +17,9 @@ namespace UniqueMvc.Data
         }
         
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<Grade> Grades { get; set; }
+        public DbSet<TermGrade> TermGrades { get; set; }
+        public DbSet<QuizOrAssignment> QuizOrAssignments { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

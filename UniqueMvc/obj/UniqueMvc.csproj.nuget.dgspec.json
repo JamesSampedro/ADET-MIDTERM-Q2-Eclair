@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamez\\Source\\Repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\UniqueMvc.csproj": {}
+    "C:\\Users\\jamez\\source\\repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\UniqueMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamez\\Source\\Repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\UniqueMvc.csproj": {
+    "C:\\Users\\jamez\\source\\repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\UniqueMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jamez\\Source\\Repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\UniqueMvc.csproj",
-        "projectName": "UniqueMvc",
-        "projectPath": "C:\\Users\\jamez\\Source\\Repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\UniqueMvc.csproj",
+        "projectUniqueName": "C:\\Users\\jamez\\source\\repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\UniqueMvc.csproj",
+        "projectName": "l",
+        "projectPath": "C:\\Users\\jamez\\source\\repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\UniqueMvc.csproj",
         "packagesPath": "C:\\Users\\jamez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamez\\Source\\Repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\obj\\",
+        "outputPath": "C:\\Users\\jamez\\source\\repos\\ADET-MIDTERM-Q2-Eclair\\UniqueMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jamez\\AppData\\Roaming\\NuGet\\NuGet.Config",
