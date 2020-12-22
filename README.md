@@ -7,7 +7,7 @@ student portal with admin/student login feature, and grades
 //
 
 
-admin acc info
+admin acc info (seeded)
 
 
 adminjames
